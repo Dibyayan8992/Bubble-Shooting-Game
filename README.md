@@ -1,2 +1,5 @@
-# Bubble-Shooter
-A Bubble Shooter Game Created Using The Library Of p5.js
+# Bubble Shooter
+A Bubble Shooter Game
+The Best Game Ever
+
+# Created By Dibyayan Kar
